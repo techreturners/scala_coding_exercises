@@ -64,6 +64,14 @@ Scala code runner version 2.13.7 -- Copyright 2002-2021, LAMP/EPFL and Lightbend
 
 **NOTE:** Installing different pieces of software often feels like a painful part of picking up a new language. If you have any problems at all please do get in touch with us 🙂
 
+## Getting started
+
+Once you've got Java and Scala installed you can make a start.
+
+Before you do please make sure to watch the getting [started video](TBC) as it walks you through instructions for getting started and the first exercise.
+
+Once you have had a watch of the video you can head over to [activity 1](./docs/activity_1.md)
+
 
 
 
