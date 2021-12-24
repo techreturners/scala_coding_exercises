@@ -26,7 +26,7 @@ Follow the link below to download and install the **Java SE Development Kit** fo
 
 https://www.oracle.com/java/technologies/downloads/#java11
 
-You should be able to verify your Java installation by running this command at the Terminal (MacOS/Linix) or Command prompt (Windows)
+You should be able to verify your Java installation by running this command at the Terminal (MacOS/Linux) or Command prompt (Windows)
 
 ```
 java --version
