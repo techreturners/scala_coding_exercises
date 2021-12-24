@@ -6,7 +6,26 @@ You may find these exercises challenging but they give you the opportunity to bu
 
 You can always come to us if you are having any trouble.
 
-We will be covering Scala on the Your Return to Tech course, so it's really important your problem solving skills are fresh. 
+We will be covering Scala on the Your Return to Tech course, so it's really important your problem solving skills are fresh.
 
-If you'd like any Scala practice prior to starting the exercises, exercism.io provide a [great Scala track](https://exercism.org/tracks/scala) 
+If this is your first time encountering the Scala language then firstly 🙌 🙌 🙌 to you for working through a new language. 
+
+Secondly, we recommend working through the [Scala tour material on their website](https://docs.scala-lang.org/tour/tour-of-scala.html) before working through the exercises.
+
+## Instructions
+
+Ok you're ready to get started. Here we'll provide instructions on how to get setup and work through the exercises.
+
+To complete these exercises you will need to have Java and Scala installed on your computer.
+
+Follow the link below to download and install the **Java SE Development Kit** for your laptop. 
+
+**NOTE:** At the time of writing it is recommended to install a Long Term Support (LTS) version of the Java Development Kit in order to ensure compatibility with Scala. At the time of writing (12/2021) version 11 is the most compatible (with Scala) LTS version of Java.  
+
+https://www.oracle.com/java/technologies/downloads/#java11
+
+
+
+
+
 
