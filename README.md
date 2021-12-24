@@ -26,6 +26,47 @@ Follow the link below to download and install the **Java SE Development Kit** fo
 
 https://www.oracle.com/java/technologies/downloads/#java11
 
+You should be able to verify your Java installation by running this command at the Terminal (MacOS/Linix) or Command prompt (Windows)
+
+```
+java --version
+```
+
+And you should see something similar to (note yours might be slightly different depending on how you installed Java)
+
+```
+openjdk 11.0.12 2021-07-20
+OpenJDK Runtime Environment Homebrew (build 11.0.12+0)
+OpenJDK 64-Bit Server VM Homebrew (build 11.0.12+0, mixed mode)
+```
+
+### Installing Scala
+
+The next step is to install Scala. 
+
+The Scala website provides instruction on installing the Scala tooling
+
+**NOTE:** At the time of writing (12/2021) we recommend installing Scala version 2.
+
+https://docs.scala-lang.org/getting-started/index.html#install-scala-on-your-computer
+
+You should be able to verify your Scala installation by running this command at the Terminal (MacOS/Linix) or Command prompt (Windows)
+
+```
+scala --version
+```
+
+And you should see something similar to (note yours might be slightly different depending on how you installed Scala)
+
+```
+Scala code runner version 2.13.7 -- Copyright 2002-2021, LAMP/EPFL and Lightbend, Inc.
+```
+
+**NOTE:** Installing different pieces of software often feels like a painful part of picking up a new language. If you have any problems at all please do get in touch with us 🙂
+
+
+
+
 
 
 
