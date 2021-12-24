@@ -64,6 +64,14 @@ Scala code runner version 2.13.7 -- Copyright 2002-2021, LAMP/EPFL and Lightbend
 
 **NOTE:** Installing different pieces of software often feels like a painful part of picking up a new language. If you have any problems at all please do get in touch with us 🙂
 
+### Integrated Development Environment (IDE)
+
+There are various IDE tools you can utilise for writing Scala. 
+
+At Tech Returners you'll see us use the [IntelliJ tool](https://www.jetbrains.com/idea/download) for working with Scala.
+
+The free community edition is more than sufficient for usage during the programme.
+
 ## Getting started
 
 Once you've got Java and Scala installed you can make a start.
