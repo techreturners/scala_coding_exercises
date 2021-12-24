@@ -18,6 +18,8 @@ Ok you're ready to get started. Here we'll provide instructions on how to get se
 
 To complete these exercises you will need to have Java and Scala installed on your computer.
 
+### Installing Java
+
 Follow the link below to download and install the **Java SE Development Kit** for your laptop. 
 
 **NOTE:** At the time of writing it is recommended to install a Long Term Support (LTS) version of the Java Development Kit in order to ensure compatibility with Scala. At the time of writing (12/2021) version 11 is the most compatible (with Scala) LTS version of Java.  
