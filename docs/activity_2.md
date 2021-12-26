@@ -15,3 +15,7 @@ A Person has 4 properties/data associated with them:
 * Their age
 
 You'll need to look at the methods and tests and update accordingly.
+
+### Moving on...
+
+Once you've got all tests passing then it is time to move on to [Activity 3](./activity_3.md)
