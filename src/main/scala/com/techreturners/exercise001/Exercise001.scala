@@ -23,6 +23,7 @@ class Exercise001 {
    * @return
    */
   def countLinuxUsers(users: Seq[User]): Int = {
+    // Add your code here
     0
   }
 
