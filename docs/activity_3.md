@@ -4,6 +4,7 @@ This exercise is designed for you to explore arrays and unit testing in Scala.
 
 ### Instructions
 Pip the cat would like to set up an ice cream store with the following ice cream flavours encoded below.
+
 This is useful because it helps Pip identify the ice cream flavours without opening the ice cream tubs as that would ruin the ice cream.
 
 - Pistachio: 0
