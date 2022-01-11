@@ -6,7 +6,7 @@ class Exercise003 {
     throw new UnsupportedOperationException("You can delete this line and add your code here.")
   }
 
-  def iceCreamFlavours(): Array[String] = {
+  def iceCreamFlavours: Array[String] = {
     throw new UnsupportedOperationException("You can delete this line and add your code here.")
   }
 

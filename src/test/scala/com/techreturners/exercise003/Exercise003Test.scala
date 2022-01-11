@@ -24,6 +24,6 @@ class Exercise003Test extends AnyFlatSpec {
       "Mango Sorbet"
     )
 
-    assert(exercise003.iceCreamFlavours() sameElements flavours)
+    assert(exercise003.iceCreamFlavours sameElements flavours)
   }
 }
