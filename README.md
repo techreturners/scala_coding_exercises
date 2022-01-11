@@ -76,7 +76,7 @@ The free community edition is more than sufficient for usage during the programm
 
 Once you've got Java and Scala installed you can make a start.
 
-Before you do, please make sure to watch the getting [started video](./docs/scala_getting_started.mp4) as it walks you through instructions for getting started and the first exercise.
+Before you do, please make sure to watch the getting [started video](https://storage.googleapis.com/your-return-to-tech/pre-journey/scala_getting_started.mp4) as it walks you through instructions for getting started and the first exercise.
 
 Once you have had a watch of the video you can head over to [activity 1](./docs/activity_1.md)
 
